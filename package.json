@@ -1,0 +1,19 @@
+{
+  "name": "week_2_hw",
+  "version": "1.0.0",
+  "description": "//This homework is a basis for a portfolio or resume website.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dswinicki8/Week_2_HW.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dswinicki8/Week_2_HW/issues"
+  },
+  "homepage": "https://github.com/dswinicki8/Week_2_HW#readme"
+}

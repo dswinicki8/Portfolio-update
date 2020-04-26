@@ -1,0 +1,16 @@
+@media screen and (max-width: 768px) {
+    /* The body's bg color will be #333 */
+    body {
+      background-color: white;
+    }
+
+
+#css{
+    margin-top: 30px;
+    float:left;
+}
+#javascript{
+    margin-top: 30px;
+    float:left;
+}
+}
