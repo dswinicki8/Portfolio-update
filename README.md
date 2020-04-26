@@ -9,3 +9,6 @@ The index page is a picture and a description of me.
 The portfolio page will bring the user to various homeowlrs or projects that I have done along the way. This can be updated as the bootcamp goes along.
 
 Using bootstrap as a guide for layout, this website has a reposnsive layout.//
+
+
+Started creating new portfolio page but in the mean time updated old page with project number 1.
